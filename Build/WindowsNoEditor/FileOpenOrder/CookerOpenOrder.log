@@ -1,0 +1,825 @@
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Geometry/Meshes/CubeMaterial.uasset" 0
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Geometry/Meshes/1M_Cube.uasset" 1
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 2
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Geometry/Meshes/TemplateFloor.uasset" 3
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 4
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 5
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 6
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 7
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 8
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 9
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Animations/ThirdPersonRun.uasset" 10
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 11
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 12
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 13
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 15
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 16
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 17
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 18
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 19
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 20
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 21
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset" 22
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 23
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 24
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 25
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 26
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset" 27
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset" 28
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset" 29
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset" 30
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 31
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 32
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 33
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/BP_Components/Burst_Health_BP.uasset" 34
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Animation_BP/MC_Proto_Skeleton.uasset" 35
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Taken_Hostage_-_Victim.uasset" 36
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/EnemyAnimations/Linked_Montage.uasset" 37
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Standing_Melee_Attack_Downward.uasset" 38
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 39
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/ScanLines.uasset" 40
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Sword_Trail/Sword_Trail_Mat.uasset" 41
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Sword_Trail/EnemyTrail_FX.uasset" 42
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/EnemyAnimations/Enemy_Atk_DownSwipe.uasset" 43
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/EnemyAnimations/Standing_React_Death_Left.uasset" 44
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/EnemyAnimations/Enemy_Death1_Montage.uasset" 45
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/EnemyAnimations/Standing_React_Death_Right.uasset" 46
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/EnemyAnimations/Enemy_Death2_Montage.uasset" 47
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/Sword_And_Shield_Death__1_.uasset" 48
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/EnemyAnimations/EnemyDeath3_montage.uasset" 49
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Montages/Linked_Montage1.uasset" 50
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/Reaction1.uasset" 51
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/Genaric_Montages/Hit1_Montage.uasset" 52
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/BP_Interfaces/HealthDamageInterface.uasset" 53
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/Tree_Tests/NewEnemyControlBlackBoard.uasset" 54
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/R_Enemy_Blackboard.uasset" 55
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Grapple_AimingPose.uasset" 56
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/Falling_Idle.uasset" 57
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/GrappleFire_Anim.uasset" 58
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Anim_Notify_Movement_BP.uasset" 59
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Streak_01.uasset" 60
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Gun/GunBased/FiringBarrel_Mat.uasset" 61
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 62
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Gun/GunBased/BarrelExplosion_FX.uasset" 63
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Montages/FireShot_2.uasset" 64
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/TowerProjectile_Mat.uasset" 65
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 66
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 67
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 68
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 69
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 70
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 71
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Blast_1.uasset" 72
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Impacts/Impact1/Imp_1_Mat.uasset" 73
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Impacts/Impact1/Impact_1_FX.uasset" 74
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/TowerProjectileBP.uasset" 75
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Enemy_Mats/DummyEnemy_Mat.uasset" 76
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Enemy_Mats/Melee_Enemy_Mat_Inst.uasset" 77
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/EnemyHealth.uasset" 78
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Burst_M.uasset" 79
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/Materials/M_Burst.uasset" 80
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 81
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 82
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 83
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 84
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 85
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 86
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 87
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/P_Explosion.uasset" 88
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Basic_Wall.uasset" 89
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 90
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/EnemyTower_BP.uasset" 91
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/Cable/Cable_Mat.uasset" 92
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 93
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/Chainsaw/ChainsawChain.uasset" 94
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/Chainsaw/ChainsawChain_Inst.uasset" 95
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Embers.uasset" 96
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Collisions/BulletMiss_Mat.uasset" 97
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Collisions/BulletMiss_FX.uasset" 98
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_BP/Master_Weapon_BP.uasset" 99
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Great_Sword_Walk.uasset" 100
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Movement_Animations/Static_idel.uasset" 101
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 102
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 103
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 104
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/PlayerBased_Fx/Running_TrailFX.uasset" 105
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Movement_Animations/Sword_And_Shield_Run.uasset" 106
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/WeaponMotion_1D_BS.uasset" 107
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Movement_Animations/Running_No_Weapon.uasset" 108
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Impacts/Walking_Impact/Walking_FX.uasset" 109
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Movement_Animations/Walking.uasset" 110
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Movement_Animations/BasicMovement_1D_BS.uasset" 111
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Animation_BP/MC_Proto_Anim_BP.uasset" 112
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Standing_Melee_Attack_Backhand.uasset" 113
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Sword_Trail/Sword_Trail_Fx.uasset" 114
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Montages/Atk_KnockUP.uasset" 115
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/Genaric_Montages/PlayerDeath_Montage.uasset" 116
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Blueprints/LockOnSystem.uasset" 117
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/SpinningFall.uasset" 118
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Anim_Notify_Boost.uasset" 119
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Montages/Atk_Air_Atk_Spin.uasset" 120
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Standing_Melee_Attack_360_High.uasset" 121
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Montages/Atk_DashSwipe.uasset" 122
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Montages/Atk_DownSwipe.uasset" 123
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/SwordRiding_ground.uasset" 124
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Sliding_Trails/CS_GroundAttack/CS_Ground_Skid.uasset" 125
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Montages/Atk_GroundRide.uasset" 126
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Standing_Melee_Attack_Horizontal.uasset" 127
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Montages/Atk_HorizontalSwipe.uasset" 128
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Standing_Melee_Combo_Attack_Ver__3.uasset" 129
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Montages/Atk_Two_HitCombo.uasset" 130
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/Draw_A_Great_Sword_1.uasset" 131
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/Genaric_Montages/Draw_Sword.uasset" 132
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/Genaric_Montages/PutAway_Sword.uasset" 133
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 134
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 135
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/Chainsaw/ChainsawBody.uasset" 136
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/Chainsaw/ChainSaw_Prototype.uasset" 137
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_BP/MW_Chainsaw_BP.uasset" 138
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/Aiming_Mats/LockOnMat.uasset" 139
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Dot_gradiant.uasset" 140
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Horizontal_Small_Gradiant.uasset" 141
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/RandomNoise_01.uasset" 142
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/Grapple_Mat/Grapple_Mat1.uasset" 143
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 144
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/GrappleObjects/Master_Grapple_Object.uasset" 145
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/Aiming_Mats/UpArrow.uasset" 146
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/Aiming_Mats/Aiming_mat1.uasset" 147
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Basic_Floor.uasset" 148
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Basic_Floor_Inst.uasset" 149
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/PostProccess/Dmg_Take_Value.uasset" 150
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Souls_UI/Souls_Forground.uasset" 151
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Souls_UI/Souls_UI_Background_Mat1.uasset" 152
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Custom_Content/C_Textures/CloudNoise.uasset" 153
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Souls_UI/Souls_UI_Forground_Mat.uasset" 154
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Player_Widgets_UI/Player_Souls.uasset" 155
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Health_UI/HealthBar_Background.uasset" 156
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Health_UI/HP_UI_Mat.uasset" 157
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Heat_UI/HeatBar_Background2.uasset" 158
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Heat_UI/Heat_UI_Mat.uasset" 159
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Health_UI/HealthBar_Forground.uasset" 160
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Player_Widgets_UI/PlayerHealthStamina.uasset" 161
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Symbol_1.uasset" 162
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Player_Widgets_UI/PlayerSpecial_Widget.uasset" 163
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 164
+"../../../Engine/Content/BasicShapes/Plane.uasset" 165
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Flying_Enemy/FlyingAggro_FX.uasset" 166
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/PlayerBased_Fx/OverHeat_FX.uasset" 167
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_MacroVariation.uasset" 168
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 169
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 170
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 171
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Animation_BP/MC_Proto_Phys.uasset" 172
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Animation_BP/MC_Proto_Skel_Mesh.uasset" 173
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/TransCircle2.uasset" 174
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Drop_Objects/Healing_Pentagra_Mat.uasset" 175
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Drop_Objects/Healing_Active_FX.uasset" 176
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Blueprints/MC_Prototype_BP.uasset" 177
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/AgroCheck.uasset" 178
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/AttackPlayer.uasset" 179
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/CloseEnough.uasset" 180
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/RapidMoveTo.uasset" 181
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/Ranged_B_Tree.uasset" 182
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/Enemy_AI_Controller.uasset" 183
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Drop_Objects/Heal_Orb_Mat.uasset" 184
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Drop_Objects/Healing_Idel_FX.uasset" 185
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Drop_Objects/Healing_Orb_Large_BP.uasset" 186
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Drop_Objects/Healing_Orb_Small_BP.uasset" 187
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/EAIState.uasset" 188
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/Master_Enemy_BP.uasset" 189
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/DummyEnemy/Dummy_Enemy_Child.uasset" 190
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/EnemyAnimations/RightHand_Mag_Throw.uasset" 191
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/EnemyAnimations/Sword_And_Shield_Slash.uasset" 192
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/Tree_Tests/FindPlayer.uasset" 193
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/Tree_Tests/NewEnemyControllerTree.uasset" 194
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/Tree_Tests/NewEnemyControl.uasset" 195
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/Tree_Tests/Close_to_Start.uasset" 196
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Master_Enemy_BP/MasterEnemy_AI/Tree_Tests/Close_to_Stop.uasset" 197
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Enemy_Tower_Agro.uasset" 198
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/Standing_Walk_Forward.uasset" 199
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Weird_Enemy_1/Monster_Concept_Master_Skeleton.uasset" 200
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Weird_Enemy_1/Monster_Concept_Master_Anim.uasset" 201
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Weird_Enemy_1/Monster_Bakeing_ao.uasset" 202
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Weird_Enemy_1/lambert3.uasset" 203
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Weird_Enemy_1/Monster_Concept_Master_PhysicsAsset.uasset" 204
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Weird_Enemy_1/Monster_Concept_Master.uasset" 205
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Weird_Enemy_1/Weird_Enemy_BP_Child.uasset" 206
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 207
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Foliage/Grass/Grass_mat.uasset" 208
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Foliage/Grass/Grass_mat_Inst1.uasset" 209
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Foliage/Grass/Grass_01.uasset" 210
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Foliage/Grass/Grass_01_DM.uasset" 211
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 212
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 213
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/Landscape_Mats/PlayerLocation_Param.uasset" 214
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Leaf_02_Normal.uasset" 215
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Leaf_Demo2.uasset" 216
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Foliage/Trees/Leaf_Mat.uasset" 217
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Foliage/Trees/Tree_Mat.uasset" 218
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Foliage/Trees/Tree_1.uasset" 219
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Gun/CableBased/ChainFX.uasset" 220
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Gun/CableBased/Chain_Particle_Mat.uasset" 221
+"../../../Engine/Content/EngineMaterials/OrientParticle.uasset" 222
+"../../../Engine/Content/EngineMaterials/DefaultParticle.uasset" 223
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Impacts/Running_Impact/Running_FX.uasset" 224
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Weapon_Based/Combo_Ready_FX.uasset" 225
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Levels/Level_1_Reign_BuiltData.uasset" 226
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Health_UI/HP_UI_Mat_Inst.uasset" 227
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Heat_UI/HeatBar_Background.uasset" 228
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Heat_UI/HeatBar_Forground.uasset" 229
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/UI_Mats/Heat_UI/HeatBar_Forground2.uasset" 230
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Animation_BP/Beta_HighLimbsGeoSG2.uasset" 231
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Animation_BP/Beta_Joints_MAT.uasset" 232
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Forward_Stab.uasset" 233
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Great_Sword_Casting.uasset" 234
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Standing_Melee_Attack_360_Low.uasset" 235
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Montages/Atk_DashSwipe_Static.uasset" 236
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Onehand_Shot.uasset" 237
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Attack_Animations/Montages/FireShot_1.uasset" 238
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/Forward_Stab.uasset" 239
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/Jumping_NoSkin.uasset" 240
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/sheath_sword_1.uasset" 241
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/sheath_sword_2.uasset" 242
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Genaric_Animations/Withdrawing_Sword.uasset" 243
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Movement_Animations/Sword_And_Shield_Turn_Left.uasset" 244
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Animations/Movement_Animations/Sword_And_Shield_Turn_Right.uasset" 245
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Blueprints/ThirdPersonGameMode.uasset" 246
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/14066106.uasset" 247
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/AmbientOcclusionMap.uasset" 248
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Blackcut_01.uasset" 249
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Crosshair_1.uasset" 250
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/CrossHair_2.uasset" 251
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/DiagonalGradiant.uasset" 252
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/DisplacementMap.uasset" 253
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/DownArrow.uasset" 254
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Explo_1_BW.uasset" 255
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/gothic-windows-of-cathedrals.uasset" 256
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Gradient_Left_Soft.uasset" 257
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Gradient_low_soft.uasset" 258
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Hollow_Boardered_Triangle.uasset" 259
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/HorizontalGradiant.uasset" 260
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Horizontal_Lines_Gradiant.uasset" 261
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Horizontal_SmoothGradiant.uasset" 262
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Leaf_Demo1.uasset" 263
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Solid_Circle.uasset" 264
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Solid_Triangle.uasset" 265
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/SpecularMap.uasset" 266
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/SquareParticle_Gradiant.uasset" 267
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/star.uasset" 268
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Synthsun_BW.uasset" 269
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/TransCircle.uasset" 270
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Triangles_Beam.uasset" 271
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Vertical_Gradiant.uasset" 272
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Vertical_Single_Gradiant.uasset" 273
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Wall_Blured_AO.uasset" 274
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/WaterDroplet.uasset" 275
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/WindWaker_T.uasset" 276
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Textures/Worley_noise.uasset" 277
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_BP/TraceComponet/Lightsaber_ThatB_BP.uasset" 278
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/EnemyWeapons/Edge_Mat.uasset" 279
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/EnemyWeapons/Sword_Mat.uasset" 280
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/EnemyWeapons/lambert2.uasset" 281
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/EnemyWeapons/lambert3.uasset" 282
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/EnemyWeapons/lambert4.uasset" 283
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/EnemyWeapons/Sword_Model_01.uasset" 284
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/EnemyWeapons/Sword_Model_02.uasset" 285
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Pickup_Actor/Pickup_Widget.uasset" 286
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Pickup_Actor/Master_PickupActor_BP.uasset" 287
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Architecture/Pillar_50x500.uasset" 288
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Architecture/Wall_400x300.uasset" 289
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Architecture/Wall_400x400.uasset" 290
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Architecture/Wall_500x500.uasset" 291
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 292
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 293
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Collapse01.uasset" 294
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Collapse02.uasset" 295
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Explosion01.uasset" 296
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Explosion02.uasset" 297
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Fire01.uasset" 298
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Fire_Sparks01.uasset" 299
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Light01.uasset" 300
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Light01_Cue.uasset" 301
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Light02.uasset" 302
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Light02_Cue.uasset" 303
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Smoke01.uasset" 304
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Starter_Birds01.uasset" 305
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Starter_Music01.uasset" 306
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Starter_Wind05.uasset" 307
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Starter_Wind06.uasset" 308
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Steam01.uasset" 309
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Explosion_Cue.uasset" 310
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 311
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 312
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 313
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Bush_D.uasset" 314
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Bush_N.uasset" 315
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_Bush.uasset" 316
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_Bush.uasset" 317
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Chair_M.uasset" 318
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Chair_N.uasset" 319
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_Chair.uasset" 320
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_Couch.uasset" 321
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Glass.uasset" 322
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Door_M.uasset" 323
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Door_N.uasset" 324
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_Door.uasset" 325
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_Door.uasset" 326
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 327
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 328
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 329
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 330
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 331
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_RockMesh_M.uasset" 332
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_RockMesh_N.uasset" 333
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_Rock.uasset" 334
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_Rock.uasset" 335
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Shelf_M.uasset" 336
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Shelf_N.uasset" 337
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_Shelf.uasset" 338
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_Shelf.uasset" 339
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_Stairs.uasset" 340
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Cone.uasset" 341
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 342
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Pipe.uasset" 343
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 344
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 345
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Plane.uasset" 346
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Torus.uasset" 347
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Trim.uasset" 348
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 349
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 350
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 351
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Tube.uasset" 352
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 353
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 354
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 355
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/ThirdPerson/Meshes/RampMaterial.uasset" 356
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 357
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 358
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 359
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 360
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 361
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 362
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 363
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 364
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 365
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 366
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 367
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 368
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 369
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 370
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 371
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 372
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 373
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 374
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 375
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 376
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 377
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 378
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 379
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 380
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 381
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 382
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 383
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 384
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 385
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 386
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 387
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 388
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 389
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 390
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 391
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 392
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 393
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 394
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 395
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 396
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 397
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 398
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 399
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 400
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 401
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 402
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 403
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 404
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 405
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 406
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 407
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 408
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 409
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 410
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 411
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 412
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 413
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 414
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 415
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 416
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 417
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 418
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 419
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 420
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 421
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 422
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 423
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 424
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 425
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 426
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 427
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 428
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 429
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 430
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 431
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 432
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 433
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 434
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 435
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 436
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 437
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 438
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 439
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 440
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 441
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 442
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 443
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 444
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 445
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 446
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 447
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 448
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 449
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 450
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 451
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 452
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 453
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 454
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 455
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 456
+"../../../Engine/Content/EngineResources/Black.uasset" 457
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 458
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 459
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 460
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 461
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 462
+"../../../Engine/Content/EngineSounds/Master.uasset" 463
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 464
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 465
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 466
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 467
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 468
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 469
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 470
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 471
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 472
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 473
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 474
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 475
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 476
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 477
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 478
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 479
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 480
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 481
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 482
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 483
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 484
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 485
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 486
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 487
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 488
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 489
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialMaterial.uasset" 490
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_SmokeSubUV_8X8.uasset" 491
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/T_soft_smoke.uasset" 492
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/M_smoke_subUV_blackbody.uasset" 493
+"../../../Engine/Content/Tutorial/SubEditors/TutorialAssets/TutorialParticleSystem.uasset" 494
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 495
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 496
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 497
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 498
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 499
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 500
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 501
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 502
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 503
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 504
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 505
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 506
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 507
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 508
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 509
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 510
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Bool/ENiagaraBooleanLogicOps.uasset" 511
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/ENiagaraOrientationAxis.uasset" 512
+"../../Plugins/Runtime/HoudiniEngine/Content/houdini_bgeo_import.uasset" 513
+"../../Plugins/Runtime/HoudiniEngine/Content/houdini_default_material.uasset" 514
+"../../Plugins/Runtime/HoudiniEngine/Content/houdini_logo.uasset" 515
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 516
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 517
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 518
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 519
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 520
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 521
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 522
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 523
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 524
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 525
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 526
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 527
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/EnemyWeapons/EnemyWeapon_Mat_instace.uasset" 528
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Flying_Enemy/Flying_Enemy_Projectile.uasset" 529
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 530
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Flying_Enemy/FlyingEnemy_FX.uasset" 531
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Flying_Enemy/Flying_Enemy_BP_Child.uasset" 532
+"../../../Engine/Content/BasicShapes/Cone.uasset" 533
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Grapple_Objects/Grapple_Object_V2_BP.uasset" 534
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/Crouch_Walk_Back.uasset" 535
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/Ranged_Enemy_Aggro_Run_Left.uasset" 536
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/Ranged_Enemy_Aggro_Run_Right.uasset" 537
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/Ranged_Enemy_Aggro_Walk_Left.uasset" 538
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/Ranged_Enemy_Aggro_Walk_Right.uasset" 539
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/Standing_Idle.uasset" 540
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/Standing_Run_Forward.uasset" 541
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/R_Enemy_Aggro_BS.uasset" 542
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/Dwarf_Walk.uasset" 543
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/Orc_Idle.uasset" 544
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Ranged_Enemys/Range_Enemy_Animations/Ranged_Enemy_B_Move.uasset" 545
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Melee_Enemy/Melee_Enemy_Anim_BP.uasset" 546
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Enemy_Mats/RangedEnemy_Mat_Inst.uasset" 547
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 548
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 549
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 550
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Weapon_Mesh/EnemyWeapons/Sword.uasset" 551
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Melee_Enemy/MeleeEnemy_BP.uasset" 552
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Static_Enemy1/Mortar_Bullet_BP.uasset" 553
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/EnemyObjects/Static_Enemy1/Mortar_enemy.uasset" 554
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 555
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 556
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 557
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 558
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 559
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 560
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 561
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 562
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 563
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/PlayerLocation_Actor/PlayerLocation_Actor_BP.uasset" 564
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Cylinder_DM.uasset" 565
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Towers_Object/Tower_BP.uasset" 566
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Tunnel_Object/lambert2.uasset" 567
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Tunnel_Object/Tunnel1.uasset" 568
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Tunnel_Object/Tunnel_Spawn_FX.uasset" 569
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/World_Objects/Tunnel_Object/TunnelSpawn.uasset" 570
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Levels/Level1_v2_BuiltData.uasset" 571
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/PostProccess/CelShading_Mat.uasset" 572
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/PostProccess/CelShading_Mat_Inst.uasset" 573
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/SCurve.uasset" 574
+"../../../Engine/Content/MapTemplates/TilingNoise05.uasset" 575
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TriplanarCameraVector.uasset" 576
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 577
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/PostProccess/CustomFog_Mat.uasset" 578
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/PostProccess/CustomFog_Mat_Inst.uasset" 579
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/PostProccess/Dmg_FX_PP_Mat.uasset" 580
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/PostProccess/Dmg_FX_PP_Mat_Inst.uasset" 581
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Player_Mats/SeeThrough_Mat.uasset" 582
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Player_Character/Player_Mats/SeeThrough_Mat_Inst.uasset" 583
+"../../../Engine/Content/BasicShapes/Cube.uasset" 584
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 585
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 586
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 587
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/Landscape_Mats/Landscape_1_Mat.uasset" 588
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Materials/Landscape_Mats/Landscape_1_Mat_Inst.uasset" 589
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Logan_Main_levelmaker_01_2_3_4_0_0.uasset" 590
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 591
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Logan_Main_levelmaker_01_2_7_8_0_0.uasset" 592
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Levels/Level1_v2.umap" 593
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/HDAs/Logan_Main_levelmaker_01.uasset" 594
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Levels/Testing_Level_BuiltData.uasset" 595
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Foliage/Grass/Grass_mat_Inst.uasset" 596
+"../../Plugins/FX/Niagara/Content/DefaultAssets/DefaultSpriteMaterial.uasset" 597
+"../../Plugins/FX/Niagara/Content/DynamicInputs/Angles/NormalizedAngleToDegrees.uasset" 598
+"../../Plugins/FX/Niagara/Content/DynamicInputs/TypeConversions/Vector2DFromFloat.uasset" 599
+"../../Plugins/FX/Niagara/Content/Functions/RandomRange.uasset" 600
+"../../Plugins/FX/Niagara/Content/DynamicInputs/UniformRange/UniformRangedFloat.uasset" 601
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/ColorFromCurve.uasset" 602
+"../../Plugins/FX/Niagara/Content/DynamicInputs/ValueFromCurve/FloatFromCurve.uasset" 603
+"../../Plugins/FX/Niagara/Content/Functions/Emitter/EmitterChangeState.uasset" 604
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/EmitterLifeCycle.uasset" 605
+"../../Plugins/FX/Niagara/Content/Modules/Emitter/SpawnRate.uasset" 606
+"../../Plugins/FX/Niagara/Content/Functions/DirectionAndLengthSafe.uasset" 607
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/NF_InitialParticlePosition.uasset" 608
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/AxisAngleToQuaternion.uasset" 609
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/MultiplyQuaternion.uasset" 610
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/QuaternionToAxisAngle.uasset" 611
+"../../Plugins/FX/Niagara/Content/Modules/Solvers/SolveForcesAndVelocity.uasset" 612
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/ENiagaraCoordinateSpace.uasset" 613
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/NF_TransformBase.uasset" 614
+"../../Plugins/FX/Niagara/Content/Functions/Localspace/NF_TransformVector.uasset" 615
+"../../Plugins/FX/Niagara/Content/Functions/Rotation/RotateAngleOnAxis.uasset" 616
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/BoxLocation.uasset" 617
+"../../Plugins/FX/Niagara/Content/Modules/Update/Color/Color.uasset" 618
+"../../Plugins/FX/Niagara/Content/Functions/FindAngleBetweenVectors.uasset" 619
+"../../Plugins/FX/Niagara/Content/Functions/Masks/ConeMask.uasset" 620
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/CurlNoiseForce.uasset" 621
+"../../Plugins/FX/Niagara/Content/Modules/Update/Forces/DragForce.uasset" 622
+"../../Plugins/FX/Niagara/Content/Modules/Update/Lifetime/UpdateAge.uasset" 623
+"../../Plugins/FX/Niagara/Content/Modules/Update/Size/SpriteSizeScale.uasset" 624
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Niagara/Fireflys_Emitter.uasset" 625
+"../../Plugins/FX/Niagara/Content/Functions/GaussianRandomFloat.uasset" 626
+"../../Plugins/FX/Niagara/Content/Functions/GaussianRandomVector.uasset" 627
+"../../Plugins/FX/Niagara/Content/Functions/RandomVector.uasset" 628
+"../../Plugins/FX/Niagara/Content/Modules/Spawn/Location/SphereLocation.uasset" 629
+"../../Plugins/FX/Niagara/Content/Functions/System/SystemChangeState.uasset" 630
+"../../Plugins/FX/Niagara/Content/Modules/System/SystemLifeCycle.uasset" 631
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/FX/Niagara/Firefly_N_System.uasset" 632
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Foliage/Grass/Grass_02.uasset" 633
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Foliage/Grass/Grass_03.uasset" 634
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/Reign_Assets/Levels/Testing_Level.umap" 635
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 636
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 637
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 638
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 639
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 640
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 641
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 642
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 643
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 644
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 645
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 646
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 647
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 648
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_AssetPlatform.uasset" 649
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 650
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 651
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 652
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 653
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 654
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 655
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 656
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 657
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Maps/Advanced_Lighting.umap" 658
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 659
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 660
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 661
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 662
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 663
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 664
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Metal_Copper.uasset" 665
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Statue_M.uasset" 666
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Statue_N.uasset" 667
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 668
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Architecture/Floor_400x400.uasset" 669
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 670
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_Chair.uasset" 671
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_Statue.uasset" 672
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_Statue.uasset" 673
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_TableRound_M.uasset" 674
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_TableRound_N.uasset" 675
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_TableRound.uasset" 676
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_TableRound.uasset" 677
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Maps/Minimal_Default.umap" 678
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Fire01_Cue.uasset" 679
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Water_N.uasset" 680
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 681
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 682
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/P_Fire.uasset" 683
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 684
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Smoke01_Cue.uasset" 685
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/P_Smoke.uasset" 686
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 687
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 688
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Spark_Core.uasset" 689
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/Materials/M_Spark.uasset" 690
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/P_Sparks.uasset" 691
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 692
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Steam01_Cue.uasset" 693
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/P_Steam_Lit.uasset" 694
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 695
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Lamp_M.uasset" 696
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Lamp_N.uasset" 697
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_Lamp.uasset" 698
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 699
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 700
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 701
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 702
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 703
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 704
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 705
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 706
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 707
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 708
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 709
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 710
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 711
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 712
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 713
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 714
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 715
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 716
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 717
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 718
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 719
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 720
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 721
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 722
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 723
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 724
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 725
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 726
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 727
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 728
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 729
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 730
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 731
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 732
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 733
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Gradinet_01.uasset" 734
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 735
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 736
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 737
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 738
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 739
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 740
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 741
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 742
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 743
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 744
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 745
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 746
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 747
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 748
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 749
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 750
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 751
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 752
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 753
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Ground_Grass.uasset" 754
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 755
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 756
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Ground_Moss.uasset" 757
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 758
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 759
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Metal_Gold.uasset" 760
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 761
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Metal_Rust.uasset" 762
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Metal_Steel.uasset" 763
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 764
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 765
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 766
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 767
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 768
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 769
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 770
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Rock_Slate.uasset" 771
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 772
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 773
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 774
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 775
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 776
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 777
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 778
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 779
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 780
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 781
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 782
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Tech_Panel.uasset" 783
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Water_Lake.uasset" 784
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Water_M.uasset" 785
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Water_Ocean.uasset" 786
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 787
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 788
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 789
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 790
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 791
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 792
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 793
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 794
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Wood_Oak.uasset" 795
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 796
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 797
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Materials/M_Wood_Pine.uasset" 798
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Architecture/Wall_400x200.uasset" 799
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 800
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 801
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Collapse_Cue.uasset" 802
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 803
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 804
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 805
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 806
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/MaterialSphere.uasset" 807
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Frame_M.uasset" 808
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Textures/T_Frame_N.uasset" 809
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/Materials/M_Frame.uasset" 810
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_CornerFrame.uasset" 811
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_DoorFrame.uasset" 812
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_GlassWindow.uasset" 813
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_PillarFrame.uasset" 814
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_PillarFrame300.uasset" 815
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Props/SM_WindowFrame.uasset" 816
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Cube.uasset" 817
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 818
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Shapes/Shape_Sphere.uasset" 819
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/StarterContent/Maps/StarterMap.umap" 820
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 821
+"X:/Unreal Projects 2019/ReignPrototype_01/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 822
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 823
+"../../../Engine/Content/Maps/Entry.umap" 824
